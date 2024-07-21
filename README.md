@@ -1,2 +1,16 @@
-# AutomaticBicycleDerailleur
-The main objectives include using an Arduino-compatible weight sensor to measure the force applied to the pedals and a Bluetooth speed sensor to measure the bike's speed. The collected data is used to automatically control gear changes using an Arduino board.
+![](./AssetsReadme/image1.png)
+![](./AssetsReadme/image2.png)
+![](./AssetsReadme/image3.png)
+![](./AssetsReadme/image4.png)
+![](./AssetsReadme/semi-automatic.mov)
+![](./AssetsReadme/image5.png)
+![](./AssetsReadme/image6.png)
+![](./AssetsReadme/image7.png)
+![](./AssetsReadme/automatic.mov)
+![](./AssetsReadme/image8.png)
+![](./AssetsReadme/image9.png)
+![](./AssetsReadme/final.mov)
+![](./AssetsReadme/image10.png)
+![](./AssetsReadme/image11.png)
+![](./AssetsReadme/finaldisplay.mov)
+![](./AssetsReadme/assembly.jpeg)
